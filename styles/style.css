@@ -1,0 +1,12 @@
+.box__1 {
+    border-top: 8px inset rgb(69, 204, 245);
+    border-radius: 3px;
+}
+.box__2 {
+    border-top: 8px inset aqua;
+    border-radius: 3px;
+}
+.box__3 {
+    border-top: 8px inset rgb(114, 114, 230);
+    border-radius: 3px;
+}
